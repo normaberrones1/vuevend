@@ -1,9 +1,9 @@
 <template>
   <div class="items">
     <h2>{{ item.name }}</h2>
-    <p>{{ item.price }}</p>
+    <p>${{ item.price }}</p>
     <p>{{ item.type }}</p>
-    <p>{{ item.quantity }}</p>
+    <p>Availability: {{ item.quantity }}</p>
     <img v-bind:src="item.img"/>
     <button v-on:click="purchase(item.id)">BUY!</button>
   </div>

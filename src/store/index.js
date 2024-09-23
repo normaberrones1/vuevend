@@ -10,7 +10,7 @@ export function createStore() {
                     id: 1,
                     name: 'Potato Crisps',
                     price: 3.05,
-                    type: 'Chip',
+                    type: 'Chips',
                     quantity: 5,
                     img: 'vite.svg'
                 },
@@ -18,7 +18,7 @@ export function createStore() {
                     id: 2,
                     name: 'Stackers',
                     price: 1.45,
-                    type: 'Chip',
+                    type: 'Chips',
                     quantity: 5,
                     img: 'vite.svg'
                 },
@@ -26,7 +26,7 @@ export function createStore() {
                     id: 3,
                     name: 'Grain Weaves',
                     price: 2.75,
-                    type: 'Chip',
+                    type: 'Chips',
                     quantity: 5,
                     img: 'vite.svg'
                 },
