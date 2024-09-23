@@ -38,6 +38,6 @@ export default {
         margin: 20px;
         padding: 20px;
         border-radius: 40px;
-        background-color: rgb(38, 147, 190);
+        background-color: #698ca3;
     }
 </style>

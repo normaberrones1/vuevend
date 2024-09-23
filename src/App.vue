@@ -1,5 +1,6 @@
 <template>
   <div id="main-area">
+    Vending Vue
     <ProductsComponent id ="prod-area"/>
     <FeedComponent id ="feed-money-area"/>
     <FundsComponent id ="funds-area"/>
